@@ -1,4 +1,4 @@
-package com.dashlabs.interview;
+package com.dashlabs.interview.activities;
 
 /**
  * Created by cyuan on 5/11/17.
